@@ -1,8 +1,8 @@
-# Google-Map-Images
+# Google Map Images
 
 ## About
 
-A Python program to get a Google Map image of a specified location using Google Static Maps API.
+A Python program to get a Google Maps image of a specified location using Google Static Maps API.
 
 ## Requirements
 
